@@ -151,3 +151,7 @@ p:last-child{margin-bottom:0}
 /* text mark for TU Delft until the official logo file is added */
 .org-text{display:flex;flex-direction:column;line-height:1.05;text-decoration:none;color:var(--navy);font:400 .8rem var(--f-body);border-left:6px solid var(--cyan);padding-left:.6rem}
 .org-text span{font:900 1.45rem var(--f-disp);color:var(--cyan)}
+/* home hero: gable house above a geothermal doublet cross-section */
+.house.geo{padding-bottom:0}
+.house.geo .btn{margin-bottom:1.2rem}
+.subsurface{display:block;width:calc(100% + 2.8rem);margin:0 -1.4rem;height:auto;position:relative}
