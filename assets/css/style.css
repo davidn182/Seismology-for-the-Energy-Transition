@@ -148,3 +148,6 @@ p:last-child{margin-bottom:0}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 .grid.even{grid-template-columns:repeat(3,minmax(0,1fr))}
 @media (max-width:800px){.grid.even{grid-template-columns:1fr}}
+/* text mark for TU Delft until the official logo file is added */
+.org-text{display:flex;flex-direction:column;line-height:1.05;text-decoration:none;color:var(--navy);font:400 .8rem var(--f-body);border-left:6px solid var(--cyan);padding-left:.6rem}
+.org-text span{font:900 1.45rem var(--f-disp);color:var(--cyan)}
