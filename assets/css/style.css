@@ -155,3 +155,9 @@ p:last-child{margin-bottom:0}
 .house.geo{padding-bottom:0}
 .house.geo .btn{margin-bottom:1.2rem}
 .subsurface{display:block;width:calc(100% + 2.8rem);margin:0 -1.4rem;height:auto;position:relative}
+/* masthead with SET logo */
+.mast .name-block.with-logo{flex-direction:row;align-items:center;gap:1rem 2rem;flex-wrap:wrap}
+.mast .logo{flex:none;display:block}
+.mast .logo img{display:block;height:clamp(110px,16vw,190px);width:auto}
+.mast .mast-text{display:flex;flex-direction:column;gap:.35rem;min-width:0;flex:1 1 18rem}
+.mast .host.when{color:var(--teal)}
