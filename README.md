@@ -1,7 +1,7 @@
 # SET 2027 · Seismology for the Energy Transition
 
 Website for the SET 2027 workshop, 12–14 May 2027, Delft University of Technology.
-Live at https://davidn182.github.io/Seismology-for-the-Energy-Transition/
+Live at https://set-2027.com/
 
 ## Structure
 
